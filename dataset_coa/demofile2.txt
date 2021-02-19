@@ -1,0 +1,206 @@
+Computer systems architecture ----> 10
+Computer Arithmetic and digital logic ----> 0
+Architecture and organization ----> 9
+Instruction set architecture- breadth and Depth ----> 14
+Computer architecture and multimedia ----> 10
+Performance- meaning and metrics ----> 0
+Processor control ----> 6
+Beyond RISC: Superscalar, VLIW, and Itanium Superscalar Architecture ----> 0
+Cache memory and virtual memory ----> 1
+Main memory ----> 12
+Input/output  ----> 3
+Processor level paralleslism  ----> 0
+Computation ----> 7
+Software engineering ----> 9
+Machine language ----> 11
+Data representation and notation ----> 10
+Element level ----> 11
+Component level ----> 0
+Control units ----> 6
+Processor organization ----> 9
+System organization ----> 9
+Survey of contemporary processor architecture ----> 0
+Introduction ----> 2
+Data Representation in Computer Systems ----> 10
+Boolean Algebra and Digital Logic ----> 0
+MARIE: An Introduction to a Simple Computer ----> 7
+A Closer Look at Instruction Set Architectures ----> 11
+Memory ----> 5
+Input/Output and Storage Systems ----> 7
+System Software ----> 14
+Alternative Architectures ----> 8
+Topics in Embedded Systems ----> 0
+Performance Measurement and Analysis ----> 4
+Network Organization and Architecture ----> 9
+Selected Storage Systems and Interfaces ----> 11
+Introduction ----> 2
+Data Representation in Computer Systems ----> 10
+Boolean Algebra and Digital Logic ----> 0
+MARIE: An Introduction to a Simple Computer ----> 7
+A Closer Look at Instruction Set Architectures ----> 11
+Memory ----> 5
+Input/Output and Storage Systems ----> 7
+System Software ----> 14
+Alternative Architectures ----> 8
+Performance Measurement and Analysis ----> 4
+Network Organization and Architecture ----> 9
+Introduction to Computer Systems ----> 7
+Instruction Set Architecture and Design ----> 14
+Assembly Language Programming ----> 4
+Computer Arithmetic ----> 11
+Processing Unit Design ----> 0
+Memory System Design 2 ----> 6
+Memory System Design 1 ----> 8
+Input–Output Design and Organization ----> 4
+Pipelining Design Techniques ----> 0
+RISC ----> 10
+Introduction to Multiprocessors ----> 13
+Computer abstractions and technology ----> 0
+Instruactions language of the computer ----> 10
+Arithmetic for computers  ----> 11
+assessing and understanding performance ----> 4
+the processor datapath and control ----> 6
+enhancing performance with pipelining ----> 0
+storage, networks, and other peripherals ----> 11
+multiprocessors and clusters ----> 11
+Introduction ----> 2
+Number system and codes  ----> 14
+Combinational logic ----> 0
+Synchronous sequential circuit ----> 4
+A Simple Computer: Organization and Programming ----> 4
+A Simple Computer: Hardware Design ----> 11
+Input/Output ----> 3
+Processor and Instruction Set Architectures ----> 10
+Memory and Storage ----> 12
+Arithmetic Logic Unit Enhancement ----> 11
+Control Unit Enhancement ----> 6
+Advanced Architectures ----> 11
+Embedded Systems ----> 10
+Computer Networks and Distributed Processing ----> 0
+Performance Evaluation ----> 4
+Basic Concepts and Computer Evolution ----> 14
+Performance Issues ----> 4
+A Top-Level View of Computer Function and Interconnection ----> 11
+Cache Memory ----> 1
+Internal Memory ----> 1
+External Memory ----> 12
+Input/Output ----> 3
+Operating System Support ----> 10
+Number Systems ----> 14
+Computer Arithmetic ----> 11
+Digital Logic ----> 14
+Instruction Sets: Characteristics and Functions ----> 0
+Instruction Sets: Addressing Modes and Formats ----> 11
+Processor Structure and Function ----> 0
+Instruction Sets: Addressing Modes and Formats ----> 11
+Processor Structure and Function ----> 0
+Reduced Instruction Set Computers ----> 10
+Instruction-Level Parallelism and Superscalar Processors ----> 11
+Parallel Processing ----> 0
+Multicore Computers ----> 10
+General-Purpose Graphic Processing Units ----> 0
+Control Unit Operation ----> 6
+Microprogrammed Control ----> 6
+Computer systems architecture ----> 11
+Computer Arithmetic and digital logic ----> 13
+Architecture and organization ----> 11
+Instruction set architecture- breadth and Depth ----> 3
+Computer architecture and multimedia ----> 0
+Performance- meaning and metrics ----> 6
+Processor control ----> 7
+Beyond RISC: Superscalar, VLIW, and Itanium Superscalar Architecture ----> 6
+Cache memory and virtual memory ----> 4
+Main memory ----> 4
+Input/output  ----> 2
+Processor level paralleslism  ----> 3
+Computation ----> 7
+Software engineering ----> 13
+Machine language ----> 13
+Data representation and notation ----> 13
+Element level ----> 11
+Component level ----> 6
+Control units ----> 0
+Processor organization ----> 7
+System organization ----> 6
+Survey of contemporary processor architecture ----> 13
+Introduction ----> 1
+Data Representation in Computer Systems ----> 13
+Boolean Algebra and Digital Logic ----> 13
+MARIE: An Introduction to a Simple Computer ----> 12
+A Closer Look at Instruction Set Architectures ----> 6
+Memory ----> 5
+Input/Output and Storage Systems ----> 8
+System Software ----> 10
+Alternative Architectures ----> 10
+Topics in Embedded Systems ----> 3
+Performance Measurement and Analysis ----> 11
+Network Organization and Architecture ----> 11
+Selected Storage Systems and Interfaces ----> 13
+Introduction ----> 1
+Data Representation in Computer Systems ----> 13
+Boolean Algebra and Digital Logic ----> 13
+MARIE: An Introduction to a Simple Computer ----> 12
+A Closer Look at Instruction Set Architectures ----> 6
+Memory ----> 5
+Input/Output and Storage Systems ----> 8
+System Software ----> 10
+Alternative Architectures ----> 10
+Performance Measurement and Analysis ----> 11
+Network Organization and Architecture ----> 11
+Introduction to Computer Systems ----> 12
+Instruction Set Architecture and Design ----> 0
+Assembly Language Programming ----> 13
+Computer Arithmetic ----> 0
+Processing Unit Design ----> 13
+Memory System Design 2 ----> 14
+Memory System Design 1 ----> 14
+Input–Output Design and Organization ----> 0
+Pipelining Design Techniques ----> 6
+RISC ----> 10
+Introduction to Multiprocessors ----> 9
+Computer abstractions and technology ----> 11
+Instruactions language of the computer ----> 13
+Arithmetic for computers  ----> 11
+assessing and understanding performance ----> 3
+the processor datapath and control ----> 7
+enhancing performance with pipelining ----> 11
+storage, networks, and other peripherals ----> 0
+multiprocessors and clusters ----> 10
+Introduction ----> 1
+Number system and codes  ----> 11
+Combinational logic ----> 13
+Synchronous sequential circuit ----> 11
+A Simple Computer: Organization and Programming ----> 11
+A Simple Computer: Hardware Design ----> 0
+Input/Output ----> 2
+Processor and Instruction Set Architectures ----> 3
+Memory and Storage ----> 4
+Arithmetic Logic Unit Enhancement ----> 3
+Control Unit Enhancement ----> 3
+Advanced Architectures ----> 10
+Embedded Systems ----> 3
+Computer Networks and Distributed Processing ----> 13
+Performance Evaluation ----> 6
+Basic Concepts and Computer Evolution ----> 11
+Performance Issues ----> 11
+A Top-Level View of Computer Function and Interconnection ----> 11
+Cache Memory ----> 4
+Internal Memory ----> 14
+External Memory ----> 4
+Input/Output ----> 2
+Operating System Support ----> 11
+Number Systems ----> 3
+Computer Arithmetic ----> 0
+Digital Logic ----> 13
+Instruction Sets: Characteristics and Functions ----> 6
+Instruction Sets: Addressing Modes and Formats ----> 6
+Processor Structure and Function ----> 7
+Instruction Sets: Addressing Modes and Formats ----> 6
+Processor Structure and Function ----> 7
+Reduced Instruction Set Computers ----> 11
+Instruction-Level Parallelism and Superscalar Processors ----> 3
+Parallel Processing ----> 11
+Multicore Computers ----> 11
+General-Purpose Graphic Processing Units ----> 11
+Control Unit Operation ----> 3
+Microprogrammed Control ----> 13

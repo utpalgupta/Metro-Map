@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content>
+
+<chapter name="Computer abstractions and technology">
+	<heading>First Heading</heading>
+	<paragraph>
+	Images are added to the document using either the external-graphic or 
+  instream-foreign-object elements. Use the external-graphic element to include a 
+  file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to 
+  include an image defined in Scalable Vector Graphics (SVG) format.
+</paragraph>
+
+	<heading>Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+<chapter name="Instruactions language of the computer">
+	<heading>Second Chapter First Heading </heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+	<heading>Second Chapter Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Second Chapter Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+<chapter name="Arithmetic for computers ">
+	<heading>Second Chapter First Heading </heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+	<heading>Second Chapter Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Second Chapter Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+<chapter name="assessing and understanding performance">
+	<heading>Second Chapter First Heading </heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+	<heading>Second Chapter Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Second Chapter Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+<chapter name="the processor datapath and control">
+	<heading>Second Chapter First Heading </heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+	<heading>Second Chapter Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Second Chapter Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+<chapter name="enhancing performance with pipelining">
+	<heading>Second Chapter First Heading </heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+	<heading>Second Chapter Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Second Chapter Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+<chapter name="storage, networks, and other peripherals">
+	<heading>Second Chapter First Heading </heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+	<heading>Second Chapter Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Second Chapter Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+<chapter name="multiprocessors and clusters">
+	<heading>Second Chapter First Heading </heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+	<heading>Second Chapter Second Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+
+
+	<heading>Second Chapter Third Heading</heading>
+	<paragraph>
+    Images are added to the document using either the external-graphic or
+    instream-foreign-object elements. Use the external-graphic element to include a
+    file in JPEG, GIF, TIFF, BMP, or PNG formats.  Use the instream-foreign-object element to
+    include an image defined in Scalable Vector Graphics (SVG) format.
+  </paragraph>
+</chapter>
+
+</content>
