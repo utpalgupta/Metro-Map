@@ -153,3 +153,11 @@ plt.show()
 # plt.scatter(centroids[:,0] , centroids[:,1] , s = 80, color = 'k')
 # plt.legend()
 # plt.show()
+
+/*
+CODED BY-:
+             __              ___          __
+|   | _|_   |__) /\  |      |   _   |  | |__)  _|_    /\
+|___|  |__  |   /~~\ |___   |__| |  |__| |      |__  /~~\
+
+*/
