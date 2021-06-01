@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 from matplotlib import pyplot
 nltk.download('stopwords')
 nltk.download('punkt')
-# plt.style.use('fivethirtyeight')
+plt.style.use('fivethirtyeight')
 import os, sys, email,re
 from sklearn.feature_extraction.text import TfidfVectorizer
 # def loop_directory(directory: 'D:\BTP2'):
